@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018440102517",
+    "firebase_url": "https://uberemergentes-1568331697486.firebaseio.com",
+    "project_id": "uberemergentes-1568331697486",
+    "storage_bucket": "uberemergentes-1568331697486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018440102517:android:e910846a49ff5ec7227e3c",
+        "android_client_info": {
+          "package_name": "com.example.uberemergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018440102517-kldfdc2ndppummu818hqdf5e0d7juult.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberemergentes",
+            "certificate_hash": "4a03893921fdaa7c9d58594d046dbc1702fc59c9"
+          }
+        },
+        {
+          "client_id": "1018440102517-3pat2u53pdictl5kno4or7123fvt843u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnZxPpNFXkhnP1o9rqMZM08OFqPSqcMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018440102517-3pat2u53pdictl5kno4or7123fvt843u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
